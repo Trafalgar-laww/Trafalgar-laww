@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<p align="center">
+    <img width="500" src=https://i.postimg.cc/9MQ5CZfZ/Untitled667-20251214172056.png> 
 <!--
 **Trafalgar-laww/Trafalgar-laww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
